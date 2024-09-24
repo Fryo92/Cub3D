@@ -12,4 +12,4 @@ Le projet à entièrement été réalisé en C
 
 Lancer la commande: **make && ./cub3d <mapfile>**
 
-Exemple de map: dans maps/map.cub
+Exemple de map dans le fichier maps/map.cub
