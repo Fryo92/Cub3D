@@ -10,6 +10,6 @@ Le projet à entièrement été réalisé en C
 
 ### LANCEMENT
 
-Lancer la commande: **make && ./cub3d <map file>**
+Lancer la commande: **make && ./cub3d <mapfile>**
 
 Exemple de map: dans maps/map.cub
